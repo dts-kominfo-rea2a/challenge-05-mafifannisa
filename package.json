@@ -1,0 +1,23 @@
+{
+  "name": "challenge-callback",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --runInBand --verbose --forceExit --detectOpenHandles"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/menjadi-react-developer/challenge-callback.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/menjadi-react-developer/challenge-callback/issues"
+  },
+  "homepage": "https://github.com/menjadi-react-developer/challenge-callback#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
